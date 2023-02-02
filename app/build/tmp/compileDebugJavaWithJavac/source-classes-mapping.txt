@@ -1,0 +1,6 @@
+com/vuzix/blade/devkit/battery_sample/MainActivity.java
+ com.vuzix.blade.devkit.battery_sample.MainActivity
+ com.vuzix.blade.devkit.battery_sample.MainActivity$1
+ com.vuzix.blade.devkit.battery_sample.MainActivity$1$1
+com/vuzix/blade/devkit/battery_sample/BuildConfig.java
+ com.vuzix.blade.devkit.battery_sample.BuildConfig
